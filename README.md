@@ -8,7 +8,7 @@ A clean and user-friendly calculator built using Flutter. This app performs basi
 
 | Initial Screen | Result Screen |
 |----------------|----------------|
-| ![Empty](screenshots/empty.png) | ![Result](screenshots/result.png) |
+| ![Empty](https://github.com/Balahariharan333/Calculator_App/blob/master/CalculatorApp%20Screenshots/Screenshot%202025-06-12%20063108.png?raw=true) | ![Result](screenshots/result.png) |
 
 > *(Place the images inside a folder named `screenshots/` in your project.)*
 
